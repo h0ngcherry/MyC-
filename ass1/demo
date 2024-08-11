@@ -1,0 +1,7 @@
+int整数型  4  2^23-1
+float单精度浮点型
+double双精度浮点型
+char字符型
+bool布尔变量   0false  1true
+long long长整型
+short
